@@ -2,6 +2,8 @@
 **A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
 - Find it on Telegram as [Google Drive Uploader](https://t.me/gdriveruploadtd_bot)
 
+https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/sathishksk2/GDUPLOAD_BOT2&branch=main&name=skks)
+
 ## Features
 - [X] Telegram files support.
 - [X] Direct Links support.
